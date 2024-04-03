@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841374688433",
+    "project_id": "fir-mxpert",
+    "storage_bucket": "fir-mxpert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841374688433:android:130365b57f5153f398ee90",
+        "android_client_info": {
+          "package_name": "com.example.app_design_mx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMv1RU8Def-W1Amj7CKiY7v5-N_UhytX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
